@@ -6,3 +6,11 @@
 <img width="1680" height="1050" alt="ВЫБЕРАЕМ ТАКУЮ ПЛАТУ" src="https://github.com/user-attachments/assets/a29b26b2-3464-47c7-9785-7f8be400948a" />
 и делаем такие настройки
 <img width="1393" height="857" alt="КАК У ВАС ДОЛЖНО БЫТЬ" src="https://github.com/user-attachments/assets/dbfc798a-a535-4b78-a6a6-bd2ec166906f" />
+
+заказать платы и напечатать дисплей по этим сылкам.
+
+https://www.thingiverse.com/thing:2309710
+
+https://aliexpress.ru/item/32556087234.html?shpMethod=CAINIAO_ECONOMY&sku_id=65187219707&spm=a2g2w.productlist.search_results.2.40dd145eYmFFgr
+
+https://aliexpress.ru/item/1005002288215177.html?sku_id=12000019924112033&spm=a2g2w.productlist.search_results.10.46cb145aln4Tfv
